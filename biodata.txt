@@ -1,0 +1,4 @@
+Nama = Savinatul Khoiriyah
+Alamat = Gampingan Pagak Malang
+Telp = 081515387073
+Email = savinatul.khoiriyah27@smk.belajar.id
